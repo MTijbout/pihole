@@ -1,14 +1,9 @@
 # Title: MTijbout/resting_hours
+##
+# Date: 15 October 2024 12:00:00 (CET)
+# Number of unique domains: 2
 #
-# This hosts file is a merged collection of hosts from reputable sources,
-# with a dash of crowd sourcing via GitHub
-#
-# Date: 14 October 2024 01:26:16 (UTC)
-# Number of unique domains: 117,418
-#
-# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
-# Project home page: https://github.com/StevenBlack/hosts
-# Project releases: https://github.com/StevenBlack/hosts/releases
+# Fetch the latest version of this file: https://raw.githubusercontent.com/MTijbout/pihole/refs/heads/main/resting_hours
 #
 # ===============================================================
 
